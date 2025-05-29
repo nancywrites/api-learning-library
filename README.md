@@ -7,16 +7,16 @@ This is a beginner-friendly collection of resources to help you learn, build, re
 
 ## 🔖 Table of Contents
 
-1. [💡 Learning APIs](#learning-apis)
-2. [🛠 Building APIs](#building-apis)
-3. [🕵️ Reading APIs](#reading-apis)
-4. [📝 Documenting APIs](#documenting-apis)
-5. [🤝 Contributing](#contributing)
-6. [📄 License](#license)
+1. [Learning APIs](#learning-apis)
+2. [Building APIs](#building-apis)
+3. [Reading APIs](#reading-apis)
+4. [Documenting APIs](#documenting-apis)
+5. [Contributing](#contributing)
+6. [License](#license)
 
 ---
 
-## 💡 Learning APIs
+## Learning APIs
 
 > *Understand what APIs are and how they work.*
 
@@ -47,7 +47,7 @@ This is a beginner-friendly collection of resources to help you learn, build, re
 
 ---
 
-## 🛠 Building APIs
+## Building APIs
 
 > *From idea to implementation: start creating your own APIs.*
 
@@ -75,7 +75,7 @@ This is a beginner-friendly collection of resources to help you learn, build, re
 
 ---
 
-## 🕵️ Reading APIs
+## Reading APIs
 
 > *Decode API documentation and explore endpoints with ease.*
 
@@ -102,7 +102,7 @@ This is a beginner-friendly collection of resources to help you learn, build, re
 
 ---
 
-## 📝 Documenting APIs
+## Documenting APIs
 
 > *Write helpful, clear, and lovable API docs.*
 
@@ -132,7 +132,7 @@ This is a beginner-friendly collection of resources to help you learn, build, re
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 Pull requests are welcome! 💬  
 Have a favorite resource or article that helped you understand APIs? Add it here and help someone else grow!  
@@ -143,7 +143,7 @@ Just make sure it's:
 
 ---
 
-## 📄 License
+## License
 
 This project is licensed under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
 
