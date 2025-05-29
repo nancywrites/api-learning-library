@@ -16,7 +16,7 @@ This is a beginner-friendly collection of resources to help you learn, build, re
 
 ---
 
-## 💡 Learning APIs
+## Learning APIs
 
 > *Understand what APIs are and how they work.*
 
