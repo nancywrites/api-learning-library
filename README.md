@@ -7,16 +7,16 @@ This is a beginner-friendly collection of resources to help you learn, build, re
 
 ## 🔖 Table of Contents
 
-1. [Learning APIs](#learning-apis)
-2. [Building APIs](#building-apis)
-3. [Reading APIs](#reading-apis)
-4. [Documenting APIs](#documenting-apis)
-5. [Contributing](#contributing)
-6. [License](#license)
+1. [💡 Learning APIs](#learning-apis)
+2. [🛠 Building APIs](#building-apis)
+3. [🕵️ Reading APIs](#reading-apis)
+4. [📝 Documenting APIs](#documenting-apis)
+5. [🤝 Contributing](#contributing)
+6. [📄 License](#license)
 
 ---
 
-## Learning APIs
+## 💡 Learning APIs
 
 > *Understand what APIs are and how they work.*
 
